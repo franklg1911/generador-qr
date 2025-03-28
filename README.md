@@ -13,6 +13,7 @@ Este proyecto es una aplicación para generar códigos QR de manera sencilla y r
 
 - **PHP** >= 7.4
 - Servidor local como **XAMPP** o similar.
+- Librería **phpqrcode**
 
 ## Instalación
 
