@@ -19,7 +19,7 @@ Este proyecto es una aplicación para generar códigos QR de manera sencilla y r
 
 1. Clona este repositorio:
    ```bash
-   git clone https://github.com/franklg1911/generador-qr.git
+   https://github.com/franklg1911/generador-qr.git
    ```
 2. Navega al directorio del proyecto:
    ```bash
