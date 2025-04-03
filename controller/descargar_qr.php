@@ -5,7 +5,7 @@ Descripción general
 Este archivo PHP se encarga de descargar un archivo QR generado previamente. Verifica si el archivo existe y lo envía al navegador
 para su descarga o muestra un mensaje de error si el archivo no se encuentra.
 -------------------------------------------------------------------------------------------------------------------------
-Clases "PHP"
+Palabras reservadas "PHP"
 -------------------------------------------------------------------------------------------------------------------------
 - file_exists: Verifica si un archivo existe en la ruta especificada.
 - header: Envía encabezados HTTP al navegador.
@@ -19,7 +19,7 @@ Clases "PHP"
 - filesize: Devuelve el tamaño de un archivo en bytes.
 - readfile: Lee un archivo y lo envía al navegador.
 -------------------------------------------------------------------------------------------------------------------------
-Variables "PHP"
+Declaraciones "PHP"
 -------------------------------------------------------------------------------------------------------------------------
 - $file: Contiene la ruta del archivo a descargar, concatenando el directorio temporal y el nombre del archivo.
 - $_GET['file']: Contiene el nombre del archivo enviado a través de la URL.
