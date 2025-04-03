@@ -6,7 +6,7 @@ Este archivo php se encarga de generar un código QR a partir de un texto ingres
 El código QR se genera utilizando la librería "phpqrcode" y se guarda en un directorio temporal. Luego, se muestra el 
 código QR generado en una página web junto con opciones para generar otro código o descargar la imagen del código QR.
 -------------------------------------------------------------------------------------------------------------------------
-Clases "PHP"
+Palabras reservadas "PHP"
 -------------------------------------------------------------------------------------------------------------------------
 - empty: Verifica si una variable está vacía.
 - include: Incluye y evalúa el archivo especificado.
@@ -19,7 +19,7 @@ Clases "PHP"
 - 'L', 4 2: Parámetros para la función QRcode::png que indican el nivel de corrección, tamaño de la matriz y margen.
 - basename: Devuelve el nombre del archivo de una ruta.
 -------------------------------------------------------------------------------------------------------------------------
-Variables "PHP"
+Declaraciones "PHP"
 -------------------------------------------------------------------------------------------------------------------------
 - $_SERVER['REQUEST_METHOD']: Contiene el método de solicitud utilizado para acceder a la página (GET, POST, etc.).
 - $_POST['qrtext']: Contiene el texto ingresado por el usuario en el formulario.
